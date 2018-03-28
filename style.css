@@ -1,0 +1,14 @@
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container {
+    max-width: 250px;
+    margin-left: 60px;
+}
